@@ -5,6 +5,7 @@
 #ติดตั้ง VScode
 - Download https://code.visualstudio.com/download
 - ติดตั้ง Angular Extension Pack: https://marketplace.visualstudio.com/items?itemName=loiane.angular-extension-pack
+- ติดตั้ง Material Icon Theme: https://marketplace.visualstudio.com/items?itemName=PKief.material-icon-theme
 
 #ติดตั้ง NodeJS
 - Download https://nodejs.org/en/download/
